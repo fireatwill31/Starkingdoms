@@ -20,8 +20,22 @@ a) do we allow cheating? allow multiple IPs.
   walls: I say we allow cheating, up to the point where if there are bots, we disable bot armies. but farming and etc. we will leave, maybe just resolve and look up IPS/login times and tell people if they are cheaters, or label them as (cheater) but no hard disables, or maybe reversing land, (prob better just to create a mod kingdom with 10k tanks and roll them)
 
 3. Kingdom records.
-  a
+    a) do we want them tied to the account, ability to hide/reveal past records
+    b) record alliances and wars, amount of networth destroyed, kingdoms killed, etc.
+    c) I think we should record dead kingdoms and their date of death. if your kingdom say, dies at 40m networth, and the rank 1 is only 20m, you should have a 40m(died with blabla time remaining on server) and be rank 1, or have a seperate score record of 'all kingdoms dead and alive' , and one for just dead kingdoms, and one for alive kingdoms.
 
 4. Multiple servers.
-  
+    a) do we do it like bcart? and have a server 2 with bonus income
+    b) I do want a seperate server that is limited by growth, like the total land on the server is equal to the amount of kingdoms that exist on the server x(a constant), how to balance and what the purpose of this server, I will think about
+    c) tick/click server, basically just the DST bug on a server of its own, maybe in between rounds.
+
+5. Alliances, they have issues with 1 being too small, not being active, warring isn't beneficial really to killing kingdoms, no 'win' status for war
+    a) dynamic alliances , change based on amount of sectors? amount of kingdoms? networth?
+    b) win conditions to war? first to do x amount of damage, first to kill x amount of kingdoms
+
+6. Notifications -email or otherwise
+    a) when round starts.
+    b) kingdom made/killed
+    c) do we want you to get an update when kingdoms hit you, hour delay?
+    d) set notifications for alliance, when u get warred, etc.
     

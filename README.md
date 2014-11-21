@@ -28,10 +28,13 @@ a) do we allow cheating? allow multiple IPs.
     a) do we do it like bcart? and have a server 2 with bonus income
     b) I do want a seperate server that is limited by growth, like the total land on the server is equal to the amount of kingdoms that exist on the server x(a constant), how to balance and what the purpose of this server, I will think about
     c) tick/click server, basically just the DST bug on a server of its own, maybe in between rounds.
+    d) future: maybe have competitions, with each alliances top kingdoms getting 50% more income, etc. or something, or 'rise against the machines round, where we each get a kingdom with 50% return times, and like only 10% military losses, and the goal of the server is to kill us before round ends.
+
 
 5. Alliances, they have issues with 1 being too small, not being active, warring isn't beneficial really to killing kingdoms, no 'win' status for war
     a) dynamic alliances , change based on amount of sectors? amount of kingdoms? networth?
     b) win conditions to war? first to do x amount of damage, first to kill x amount of kingdoms
+    c) open alliances, like u can choose to have ur alliance protected password, or open for anyone to join. as well as pass alliance leadership, and AL's being able to recreate on the spot. or have that option for every kingdom.
 
 6. Notifications -email or otherwise
     a) when round starts.
@@ -40,3 +43,6 @@ a) do we allow cheating? allow multiple IPs.
     d) set notifications for alliance, when u get warred, etc.
     
 7. In game activities, a lot of how sk works is community, and not just in game but outside, the ability to mesh networks and other games even, like pool/draw something, etc. even werewolf games, or forum games , do we want to leave some area for people to be able to do this, with a starkingdoms account as access?
+    a) definitely have a polling feature, to vote and handle votes.
+
+8. achievements? badges? etc.?

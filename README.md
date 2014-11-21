@@ -39,3 +39,4 @@ a) do we allow cheating? allow multiple IPs.
     c) do we want you to get an update when kingdoms hit you, hour delay?
     d) set notifications for alliance, when u get warred, etc.
     
+7. In game activities, a lot of how sk works is community, and not just in game but outside, the ability to mesh networks and other games even, like pool/draw something, etc. even werewolf games, or forum games , do we want to leave some area for people to be able to do this, with a starkingdoms account as access?
